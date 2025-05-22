@@ -21,10 +21,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone[https://github.com/tkx3309/NM-project.git]
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd [forecasting house prices acccurately using smart regression techniques in data science]
 
 # Step 3: Install the necessary dependencies.
 npm i
